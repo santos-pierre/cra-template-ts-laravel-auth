@@ -1,0 +1,19 @@
+{
+  "name": "cra-template-ts-laravel-auth",
+  "version": "1.0.4",
+  "description": "React & Typescript Template for [LaravelReactSPA](https://laravelreactspa.santospierre.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santos-pierre/cra-template-ts-laravel-auth.git"
+  },
+  "author": "Santos Pierre <santospierre1305@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santos-pierre/cra-template-ts-laravel-auth/issues"
+  },
+  "homepage": "https://github.com/santos-pierre/cra-template-ts-laravel-auth#readme"
+}
